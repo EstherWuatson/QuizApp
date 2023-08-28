@@ -1,4 +1,18 @@
 # 04 Web APIs: Code Quiz
+known as QuizApp on my GitHub, EstherWuatson.
+
+## Visual
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
+
+From my exercise
+
+
+## Installation
+Computing programs GitHub, V.S. Code and UC Berkeley required computing software.
+
+## Contact
+If you have questions, please contact 1esther.wu@gmail.com
+
 
 ## Your Task
 
